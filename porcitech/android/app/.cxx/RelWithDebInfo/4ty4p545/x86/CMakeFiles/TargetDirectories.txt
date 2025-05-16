@@ -1,0 +1,2 @@
+C:/Users/punto/Desktop/Porci_Tech/porcitech/android/app/.cxx/RelWithDebInfo/4ty4p545/x86/CMakeFiles/edit_cache.dir
+C:/Users/punto/Desktop/Porci_Tech/porcitech/android/app/.cxx/RelWithDebInfo/4ty4p545/x86/CMakeFiles/rebuild_cache.dir

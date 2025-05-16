@@ -4,6 +4,7 @@ import 'package:porcitech/screens/home_screen.dart';
 import 'package:porcitech/screens/register_screen.dart';
 import 'package:porcitech/services/auth_service.dart';
 
+
 void main() async {
   // Asegurar que Flutter esté inicializadozxcvbn
   WidgetsFlutterBinding.ensureInitialized();
